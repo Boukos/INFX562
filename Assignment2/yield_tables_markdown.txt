@@ -1,0 +1,15 @@
+#### Yield Tables (To Do)
+To further assess the data produced using FVS, simulated outputs are compared to canonical examples from the forestry literature. Yield Tables, or Yield Curves, have long been employed to capture common patterns of forest growth and development over time. They are typically based on fitting a model (regression or simulation) to numerous field observations recorded throughout a region, typically including a network of plots that have been remeasured over many years. 
+
+As the name suggests, Yield Tables were developed with primary emphases on utility for timber management and include descriptions of the number, size, and volume of trees over time. In this analysis, I consider Yield Tables published by:
+>`Schumacher, F.X. (1930). "Yield, stand and volume tables for Douglas fir in California" (Bulletin No. 491). University of California, Berkeley, Agricultural Experiment Station: Berkeley, CA.` [link to PDF](http://www.fire.ca.gov/resource_mgt/downloads/forestry/yield_tables/YieldTableDouglasFirSchumacher.pdf)
+
+>`McArdle, R.E., Meyer, W.H., Bruce, D. (1961). "The Yield of Douglas Fir in the Pacific Northwest" (Technical Bulletin No. 201). USDA Forest Service, Pacific Northwest Forest and Range Experiment Station: Washington, D.C.` [link to PDF](https://naldc.nal.usda.gov/download/CAT40000043/PDF)
+
+>`Chambers, C.J. (1980). "Empirical Growth and Yield Tables for the Douglas Fir Zone" (DNR Report No. 41). Washington Department of Natural Resources: Olympia, WA.` [link to PDF](ftp://75.151.72.21/frc/DNR_EmpiricalYieldTables/DNR%2041_Douglas-fir.pdf)
+
+>`Curtis, R.O., Clendenen, G.W., Reukema, D.L., DeMars, D.J. (1982). "Yield Tables for Managed Stands of Coast Douglas-Fir" (General Technical Report No. PNW-GTR-135). USDA Forest Service, Pacific Northwest Forest and Range Experiment Station: Portland, OR.` [link to PDF](https://www.fs.fed.us/pnw/pubs/pnw_gtr135.pdf)
+
+>`Mitchell, K.J., Cameron, I.R. (1985). "Managed stand yield tables for coastal Douglas-fir: initial density and precommercial thinning" (Land Management Report No. 31). British Columbia Ministry of Forests, Research Branch: Victoria, B.C.` [link to PDF](https://www.for.gov.bc.ca/hfd/pubs/Docs/Mr/Lmr/Lmr031.pdf)
+
+In general, each Yield Table in documents like these follow the trajectory of a single variable of interest (e.g., number of trees per acre) over time depending on the productivity of a forest, which is quantified using Site Index and often categorized into five major Site Classes, `I-V`, with `I` beyond the most productive. 
